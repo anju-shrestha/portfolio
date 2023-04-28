@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.defb3c62.css",
+    "main.js": "/portfolio/static/js/main.adf94e03.js",
+    "static/media/beachsite.png": "/portfolio/static/media/beachsite.e3b643939fe60d6561c3.png",
+    "static/media/movieDay.png": "/portfolio/static/media/movieDay.1d3f0b246770fee6a496.png",
+    "static/media/Bootstrap_logo.svg.png": "/portfolio/static/media/Bootstrap_logo.svg.a692f04a045f8133192d.png",
+    "static/media/recordkeeping.png": "/portfolio/static/media/recordkeeping.52a7aa076415746dc924.png",
+    "static/media/logo1.png": "/portfolio/static/media/logo1.1e00b5e2787448318c31.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/wscube.png": "/portfolio/static/media/wscube.93ba2c533e19c15e9adf.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.defb3c62.css.map": "/portfolio/static/css/main.defb3c62.css.map",
+    "main.adf94e03.js.map": "/portfolio/static/js/main.adf94e03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.defb3c62.css",
+    "static/js/main.adf94e03.js"
+  ]
+}
