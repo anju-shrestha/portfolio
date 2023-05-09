@@ -11,14 +11,22 @@
     li {
         @apply px-4;
         @apply cursor-pointer;
+        transition: 1s;
 
     }
+    li:hover{
+        text-decoration: underline;
+        text-decoration-color:rgb(219 39 119) ;
+        text-decoration-thickness: 3px;
+
+    }
+
 }
 .content-div{
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-position: center !important;
-    height: 250px;
+    height: 200px;
     transition: 2s;
     
     
@@ -26,8 +34,8 @@
 .content-div:hover{
     background-image: linear-gradient(
         to right,
-        rgba(112, 157, 255, 0.8),
-        hsla(242, 74%, 61%, 0.8)
+        hwb(325 1% 81% / 0.247),
+        rgba(233, 156, 192, 0.8)
     ) !important;
     
 }

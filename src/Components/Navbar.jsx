@@ -47,11 +47,11 @@ function Navbar() {
 
            {/*hamburger  */}
            <div onClick={handleClick} className=' md:hidden z-10'>
-            {!nav ? <FaBars/> : <FaTimes/>}
+            {nav ?  <FaTimes/>: <FaBars/>}
            </div>
 
            {/* mobile menu */}
-           <ul className={!nav ? 'hidden' : 'absolute left-0 top-0 w-full h-screen flex flex-col justify-center items-center bg-[#330a11]'}>
+           <ul className={nav ? 'fixed left-0 top-0 h-screen w-full flex flex-col justify-center items-center bg-[#330a11] ease-in-out duration-700' : ' fixed left-[100%] '}>
                 <li className='py-6 text-4xl'>
                       <Link onClick={handleClick} to="home" smooth={true} duration={500}>
                         Home
@@ -89,7 +89,8 @@ function Navbar() {
                   </a>
                 </li>
                 <li className='w-[160px] h-[40px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
-                  <a className='flex justify-between items-center w-full text-gray-300' href="https://github.com/qaalikh">
+                  <a className='flex justify-between items-center w-full text-gray-300' href="https://github.com/anju-shrestha
+                  ">
                     Github <FaGithub size={30}/> 
                   </a>
                 </li>

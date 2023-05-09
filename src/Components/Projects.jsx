@@ -8,14 +8,14 @@ const Projects = () => {
   return (
     <div
       name="projects"
-      className="w-full md:h-screen text-gray-300 bg-[#330a11]"
+      className="w-full md:h-screen text-white bg-[#330a11]"
     >
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8 ">
-          <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600">
+          <p className="text-4xl font-bold inline border-b-4 border-pink-600">
             Projects
           </p>
-          <p className="py-6">//Check out some of my recent work</p>  
+          <p className="py-2">Check out some of my recent work</p>  
         </div>
 
         {/* container */}
@@ -31,12 +31,12 @@ const Projects = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://qaalikh.github.io/beachsite/">
+                <a href="https://anju-shrestha.github.io/beachsite/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/qaalikh/beachsite.git">
+                <a href="https://github.com/anju-shrestha/beachsite.git">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -55,12 +55,12 @@ const Projects = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://qaalikh.github.io/react-wscube-tech/">
+                <a href="https://anju-shrestha.github.io/react-wscube-tech/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/qaalikh/react-wscube-tech.git">
+                <a href="https://github.com/anju-shrestha/react-wscube-tech.git">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -79,12 +79,12 @@ const Projects = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href=" https://qaalikh.github.io/movieDay/">
+                <a href=" https://anju-shrestha.github.io/movieDay/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/qaalikh/movieDay.git">
+                <a href="https://github.com/anju-shrestha/movieDay.git">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -103,12 +103,12 @@ const Projects = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://qaalikh.github.io/record-keeping/">
+                <a href="https://anju-shrestha.github.io/record-keeping/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/qaalikh/record-keeping.git">
+                <a href="https://github.com/anju-shrestha/record-keeping.git">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>

@@ -9,8 +9,8 @@ const Footer = () => {
         <div className='py-8 px-4  text-gray-500'>
             <p className='text-2xl font-bold inline'>Social</p>
             <div className='flex w-[100px] py-6 justify-between px-0'>
-                <a href="https://www.linkedin.com/in/anju-shrestha-37a1a5244"><FaGithub size={20}/></a>
-                <a href="https://github.com/qaalikh"><FaLinkedin size={20}/></a> 
+                <a href="https://www.linkedin.com/in/anju-shrestha-37a1a5244"><FaLinkedin size={20}/></a>
+                <a href="https://github.com/anju-shrestha"><FaGithub size={20}/></a> 
                 <a href="https://mail.google.com/mail/anjushresth1111"><HiOutlineMail size={20}/></a>
             </div>
             <p className='text-xl font-bold inline '>Anju Shrestha</p>

@@ -8,12 +8,12 @@ import Bootstrap from '../Assets/Bootstrap_logo.svg.png'
 
 const Skills = () => {
   return (
-    <div name='skills' className='bg-[#330a11] text-gray-300 w-full h-screen'>
+    <div name='skills' className='bg-[#330a11] text-white w-full h-screen'>
         {/* container */}
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div>
                 <p className='text-4xl inline font-bold border-b-4 border-pink-600'>Skills</p>
-                <p className='py-4'>//These are the technologies I've worked with.</p>
+                <p className='py-4'>These are the technologies I've worked with.</p>
             </div>
 
             <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-4 text-center py-8'>
