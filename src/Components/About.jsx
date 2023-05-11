@@ -22,7 +22,7 @@ const About = () => {
                     </p>
                     <br />
                     <p>
-                        Thank you for taking the time to view my portfolio and I hope you enjoy browsing throush my work. &#128522;
+                        Thank you for taking the time to view my portfolio and I hope you enjoy browsing through my work. &#128522;
                     </p>
                 </div>
             </div>
